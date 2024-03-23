@@ -9,5 +9,3 @@
     "train_dataset": "train_house_prices.csv.zip",
     "test_dataset": "test_house_prices.csv.zip"
 }
-    
-    
